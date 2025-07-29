@@ -7,6 +7,7 @@ function App() {
       <p>
         CI/CD and Cloud DevOps</p>
       <p>This is a simple homepage deployed on GitHub Actions using Vite.</p>
+      <p>Done with git pages and git Actions</p>
     </div>
   );
 }
